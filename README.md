@@ -12,9 +12,9 @@ szinten. Időkorlátozást sajnos nem sikerült megvalósítani, mivel legtöbb 
 valamint a paraméterek parancssorról való átvétele is hiányzik.
 
 A program Alfa-beta nyesést alkalmazva számítja ki a számítógép számára a nyerő/előnyösebb stratégiát, melyet döntési fákra alapozva határoz
-meg, majd a rekurív hivásokból visszalépve válassza ki a legoptimálisabbat.
+meg, majd a rekurzív hivásokból visszalépve válassza ki a legoptimálisabbat.
 
-A program által használt heurisztikus függvény azt nézi meg, hogy mely sarkok foglaltak és ki által azoknak növelve nyerési esélyeit, és
+A program által használt heurisztikus függvény azt nézi meg, hogy mely sarkok foglaltak és ki által, azoknak növelve nyerési esélyeit, és
 hogy ha az aktuális pozicióba lépne mekkora előnyre ( hány korongot nyerne a lépésen ) tesz szert.
 
 
