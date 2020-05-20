@@ -1,3 +1,5 @@
+# 3-as labor 
+
 Reversi melyet egy 8x8-as táblán játszanak. Fekete és fehér korongokat szoktak alkalmazni, jelen esetben a játékos 1-sel, a számítógép 2-sel 
 van jelölve.
 
